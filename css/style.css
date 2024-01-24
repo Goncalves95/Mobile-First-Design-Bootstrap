@@ -177,6 +177,8 @@ body {
 .features {
     text-align: center;
     margin-bottom: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 
 .feature i {
